@@ -17,7 +17,6 @@
     <ProjectReference Include="..\WebApp.Domain.Shared\WebApp.Domain.Shared.csproj" />
     <ProjectReference Include="..\WebApp.Infrastructure.Shared\WebApp.Infrastructure.Shared.csproj" />
     <ProjectReference Include="..\WebApp.Infrastructure\WebApp.Infrastructure.csproj" />
-    <ProjectReference Include="..\WebApp.Proxy.Domain\WebApp.Domain.csproj" />
   </ItemGroup>
 
 
