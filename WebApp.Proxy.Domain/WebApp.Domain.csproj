@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebApp.Domain.Shared\WebApp.Domain.Shared.csproj" />
+    <ProjectReference Include="..\WebApp.Infrastructure.Shared\WebApp.Infrastructure.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
